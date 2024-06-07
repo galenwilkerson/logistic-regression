@@ -83,6 +83,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to modify this draft to better fit the specifics of your project or any additional details you would like to include.
